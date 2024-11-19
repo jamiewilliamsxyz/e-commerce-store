@@ -80,7 +80,7 @@ const Cart = () => {
           Your Cart
         </h1>
         <h2 className="text-lg text-center mt-6 mb-10">
-          Ready to check out? Here's what you've got.
+          Ready to check out? Here&apos;s what you&apos;ve got.
         </h2>
       </header>
 

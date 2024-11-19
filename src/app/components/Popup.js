@@ -22,7 +22,7 @@ const Popup = () => {
     if (time > 10 && showPopup && !visibility) {
       setVisibility(true);
     }
-  }, [time, showPopup]);
+  }, [time, showPopup, visibility]);
 
   const handleClose = () => {
     setVisibility(false);

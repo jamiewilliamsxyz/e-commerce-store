@@ -30,7 +30,7 @@ const Footer = () => {
           />
         </Link>
         <p>
-          <u>"Powered by Faith"</u>
+          <u>&quot;Powered by Faith&quot;</u>
         </p>
       </div>
       <div className="flex flex-row gap-14">

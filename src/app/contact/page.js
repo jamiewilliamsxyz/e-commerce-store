@@ -31,7 +31,7 @@ const Contact = () => {
       <div className="p-12">
         <h1 className="text-[5rem] font-bold text-center">Contact Us</h1>
         <h2 className="text-lg text-center mt-4">
-          We'd love to hear from you! Reach out to us for any questions or
+          We&apos;d love to hear from you! Reach out to us for any questions or
           support
         </h2>
 
